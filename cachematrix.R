@@ -1,7 +1,7 @@
 ##  This script contains two main functions used to create an object that 
 ##  stores a matrix and cache's its inverse.
 
-## Testing
+##  The first main function, makeCacheMatrix, creates a list with a nested 
 ##  function to perform four steps:
 ##      1. set the value of the matrix
 ##      2. get the value of the matrix
